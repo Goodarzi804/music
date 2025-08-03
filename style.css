@@ -1,0 +1,7 @@
+@keyframes color{
+    from{background-color: darkblue;}
+    to{background-color: purple;}
+}
+body{
+    animation: color 5s infinite alternate;
+}
